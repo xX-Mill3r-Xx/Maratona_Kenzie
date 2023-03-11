@@ -271,3 +271,12 @@
     align-items: center;
     gap: 15px;
   }
+
+  .assinatura{
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  .assinatura:hover{
+    color: darkorange;
+  }
